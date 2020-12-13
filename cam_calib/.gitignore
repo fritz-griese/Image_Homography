@@ -1,0 +1,3 @@
+resources/*.jpg
+out/*.npz
+out/*.png
